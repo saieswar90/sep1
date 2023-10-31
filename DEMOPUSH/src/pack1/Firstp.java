@@ -8,5 +8,6 @@ public class Firstp {
 		System.out.println("Hello ECS");
 		int a=sc.nextInt();
 		System.out.print(a);
+		System.out.println("Hello sai");
 	}
 }
